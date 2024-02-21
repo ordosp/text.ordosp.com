@@ -1,6 +1,6 @@
 +++
 title = "Чиполлино"
-date = 2023-12-05
+date = 2023-11-09
 tags = ["Instead"]
 categories = ["Игры"]
 preview = "images/1.png"
