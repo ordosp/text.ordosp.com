@@ -1,7 +1,7 @@
 +++
 title = "Песнь Луны и Солнца"
 date = 2023-11-23
-tags = ["CYOA", "КРИЛ2023"]
+tags = ["CYOA", "КРИЛ 2023"]
 categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
