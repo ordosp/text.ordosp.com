@@ -1,0 +1,24 @@
+[categories]
+other = "Категории:"
+
+[readingTime]
+one = "One minute read"
+other = "{{.Count}} minute read"
+
+[readMore]
+other = "Читать далее..."
+
+[draft]
+other = "Черновик"
+
+[subscribe]
+other = "Подписаться"
+
+[rendered]
+other = "Rendered by"
+
+[comments]
+other = "Add/View Comments"
+
+[modifiedOn]
+other = "Изменено"

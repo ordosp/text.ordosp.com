@@ -1,0 +1,34 @@
+baseurl = "https://text.ordosp.com/"
+DefaultContentLanguage = "ru"
+title = "Ordos :: text"
+copyright = "Copyright &copy; 2024 - "
+canonifyurls = true
+theme = "hugo-kiera"
+
+paginate = 10
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    email = "ordosp@gmail.com"
+    telegram = "ordosp"
+
+[params]
+    tagline = "Заметки о текстовых играх"
+    description = "Заметки о текстовых играх"
+    custom_css = []
+    favicon = "/static/images/favicon.ico"
+
+[[menu.main]]
+    identifier = "games"
+    name = "Игры"
+    url = "/games"
+    weight = 2
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Метки"
+    url = "/tags"
+    weight = 10
