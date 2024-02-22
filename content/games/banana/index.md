@@ -1,6 +1,6 @@
 +++
 title = "Банан (серия игр)"
-date = 2023-12-09
+date = 2023-12-09T00:00:00+03:00
 tags = ["CYOA", "Instead", "QSP"]
 categories = ["Игры"]
 preview = "images/1.png"

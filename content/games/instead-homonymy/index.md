@@ -1,6 +1,6 @@
 +++
 title = "Омонимия"
-date = 2023-12-03
+date = 2023-12-03T00:00:00+03:00
 tags = ["Instead", "КРИЛ 2023"]
 categories = ["Игры"]
 preview = "images/1.png"

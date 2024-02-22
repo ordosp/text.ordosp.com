@@ -1,6 +1,6 @@
 +++
 title = "История неправильной принцессы"
-date = 2023-12-06
+date = 2023-12-06T00:00:00+03:00
 tags = ["CYOA", "QSP"]
 categories = ["Игры"]
 preview = "images/1.png"

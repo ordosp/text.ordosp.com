@@ -1,6 +1,6 @@
 +++
 title = "R01"
-date = 2023-11-09
+date = 2023-11-09T00:00:00+03:00
 tags = ["Instead", "Паровозик 6"]
 categories = ["Игры"]
 preview = "images/r01_1.png"

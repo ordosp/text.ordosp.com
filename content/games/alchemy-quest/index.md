@@ -1,6 +1,6 @@
 +++
 title = "Алхимик"
-date = 2023-11-23
+date = 2023-11-23T00:00:00+03:00
 tags = ["CYOA", "КРИЛ 2023"]
 categories = ["Игры"]
 preview = "images/1.png"
