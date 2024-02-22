@@ -6,9 +6,10 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Александр Шохров aka wolz"
-game_url = "http://instead-games.ru/game.php?ID=116"
-ifwiki_url = "https://ifwiki.ru/Полёт_шмеля"
-ifiction_url = ""
+game_urls = [
+    {"url"="http://instead-games.ru/game.php?ID=116", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Полёт_шмеля", "title"="ifwiki.ru"}
+]
 +++
 
 Описание автора: «Написан за сутки под впечатлением от шмеля, заблудившегося в комнате)

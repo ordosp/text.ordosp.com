@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Cheshire"
-game_url = "https://cheshiren.github.io/MorningCoffee/"
-ifwiki_url = "https://ifwiki.ru/Утренний_кофе"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?id=2564&lid=7"
+game_urls = [
+    {"url"="https://cheshiren.github.io/MorningCoffee/", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Утренний_кофе", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?id=2564&lid=7", "title"="ifiction.ru"}
+]
 +++
 
 Что может быть лучше кофе, самостоятельно сваренного в турке? Этот бодрящий аромат и чудесный вкус позволяет на минутку забыть про все многочисленные дела. Так начинается обычное утро руководителя небольшой логистической компании. Неторопливо и наслаждаясь каждым моментом, он пьет кофе и попутно решает проблемы на работе. Казалось бы — что может разрушить эту идиллию?

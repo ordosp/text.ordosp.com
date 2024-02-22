@@ -21,24 +21,13 @@
     {{ end }}
 
     <ul class="article_info">
-
-      {{ if .Params.game_url }}
-      <li>
-        Страница игры: <a href="{{ .Params.game_url }}" _target="_blank">{{ .Params.game_url }}</a>
-      </li>
+      {{ if .Params.game_urls }}
+          {{ range $index, $item := .Params.game_urls }}
+            <li>
+              {{ $item.title }}: <a href="{{ $item.url }}" _target="_blank">{{ $item.url }}</a>
+            </li>
+          {{ end }}
       {{ end }}
-
-      {{ if .Params.ifwiki_url }}
-      <li>
-        ifwiki.ru: <a href="{{ .Params.ifwiki_url }}" _target="_blank">{{ .Params.ifwiki_url }}</a>
-      </li>
-      {{ end }}
-      {{ if .Params.ifiction_url }}
-      <li>
-        ifiction.ru: <a href="{{ .Params.ifiction_url }}" _target="_blank">{{ .Params.ifiction_url }}</a>
-      </li>
-      {{ end }}
-
     </ul>
 
     {{ if not (.Params.replace_site_logo) }}

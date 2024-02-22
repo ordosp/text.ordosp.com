@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Лука"
-game_url = "https://instead-games.ru/game.php?ID=387"
-ifwiki_url = "https://ifwiki.ru/Омонимия"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?pid=40664"
+game_urls = [
+    {"url"="https://instead-games.ru/game.php?ID=387", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Омонимия", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?pid=40664", "title"="ifiction.ru"}
+]
 +++
 
 Одна из игр с КРИЛ 2023. Мы получаем печальное письмо от старого друга, где тот сообщает, что весьма плох и пришла пора прощаться. Но для этого нужно проделать долгий путь через «страну слов», где он прожил последние годы. С этого момента и начинается наше путешествие.

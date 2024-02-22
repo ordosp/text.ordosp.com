@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Ingenium Games (Lualay)"
-game_url = "https://the-song-of-sun-and-moon.netlify.app/"
-ifwiki_url = "https://ifwiki.ru/Песнь_Луны_и_Солнца"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?id=2747"
+game_urls = [
+    {"url"="https://the-song-of-sun-and-moon.netlify.app/", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Песнь_Луны_и_Солнца", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?id=2747", "title"="ifiction.ru"}
+]
 +++
 
 Одна из игр, представленных на КРИЛ 2023. Мы играем за девушку-алхимика, подающую большие надежды в своем деле. По крайней мере так считает старый Мастер зельеварения, обучивший ее. Это история полна магии, любви, загадок и надежды на будущее. Сам сюжет довольно закручен и тянет на небольшой роман.

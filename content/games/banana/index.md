@@ -6,9 +6,12 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Антон Жучков (Fireton)"
-game_url = "https://urq.plut.info/node/957"
-ifwiki_url = "https://ifwiki.ru/Банан_(серия)"
-ifiction_url = ""
+game_urls = [
+    {"url"="https://urq.plut.info/node/957", "title"="Банан"},
+    {"url"="https://urq.plut.info/node/3105", "title"="Банан 2"},
+    {"url"="https://instead-games.ru/game.php?ID=326", "title"="Банан 3"},
+    {"url"="https://ifwiki.ru/Банан_(серия)", "title"="ifwiki.ru"}
+]
 +++
 
 У вас есть банан и вам очень хочется есть. Казалось бы — что может пойти не так?

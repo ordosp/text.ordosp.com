@@ -6,9 +6,10 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Вета"
-game_url = "https://qsp.su/index.php?option=com_sobi2&sobi2Task=sobi2Details&sobi2Id=188&Itemid=0"
-ifwiki_url = "https://ifwiki.ru/История_неправильной_принцессы"
-ifiction_url = ""
+game_urls = [
+    {"url"="https://qsp.su/index.php?option=com_sobi2&sobi2Task=sobi2Details&sobi2Id=188&Itemid=0", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/История_неправильной_принцессы", "title"="ifwiki.ru"}
+]
 +++
 
 Вот угораздило же меня родиться принцессой! Дворцы, слуги, балы и прочие радости жизни. Кто-то об этом всем может только мечтать, а мне оно и даром не надо.

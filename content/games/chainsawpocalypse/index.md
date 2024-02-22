@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Константин Шепелин"
-game_url = "https://icemar.itch.io/chainsawpocalypse"
-ifwiki_url = "https://ifwiki.ru/Бензопилы_Апокалипсиса"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?id=2739"
+game_urls = [
+    {"url"="https://icemar.itch.io/chainsawpocalypse", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Бензопилы_Апокалипсиса", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?id=2739", "title"="ifiction.ru"}
+]
 +++
 
 Одна из игр КРИЛ 2023. Мы находимся в Москве будущего. Роботы, неон и прочие элементы киберпанка прилагаются. Местный диктатор Доктор Гриб закрыл небо Стеклянной Паутиной и хочет поработить весь город. Наша задача — собрать разномастные войска по разным закоулкам и воздать Доктору по заслугам.

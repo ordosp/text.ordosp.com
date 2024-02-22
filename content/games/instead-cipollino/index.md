@@ -6,9 +6,10 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "epoxa"
-game_url = "http://instead-games.ru/game.php?ID=357"
-ifwiki_url = "https://ifwiki.ru/Чиполлино"
-ifiction_url = ""
+game_urls = [
+    {"url"="http://instead-games.ru/game.php?ID=357", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Чиполлино", "title"="ifwiki.ru"}
+]
 +++
 
 Описание автора: «фанфик по известной сказке.

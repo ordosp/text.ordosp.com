@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Алексей Галкин"
-game_url = "https://www.inventati.org/randomstuff/games/america/web/"
-ifwiki_url = "https://ifwiki.ru/Америка_приветствует_вас!"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?id=2740"
+game_urls = [
+    {"url"="https://www.inventati.org/randomstuff/games/america/web/", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Америка_приветствует_вас!", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?id=2740", "title"="ifiction.ru"}
+]
 +++
 
 Одна из игр КРИЛ 2023. Два инопланетянина прилетают на Землю в США по своим инопланетным делам (а может и просто из любопытства). И сразу попадают в небольшую, но интересную историю. Чем она закончится и суждено ли им вернуться обратно — время покажет.

@@ -6,9 +6,10 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Вета"
-game_url = "https://qsp.su/index.php?option=com_sobi2&sobi2Task=sobi2Details&catid=3&sobi2Id=269"
-ifwiki_url = "https://ifwiki.ru/Не_царевна,_но_лягушка"
-ifiction_url = ""
+game_urls = [
+    {"url"="https://qsp.su/index.php?option=com_sobi2&sobi2Task=sobi2Details&catid=3&sobi2Id=269", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Не_царевна,_но_лягушка", "title"="ifwiki.ru"}
+]
 +++
 
 Каждая, уважающая себя, лягушка — царевна. Если не по документам, то, хотя бы, в душе. Конечно, болото — это не совсем замок, но можно и тут жить. Надо только найти подходящего принца, а там уж будь что будет. Вот только с принцами какая-то напряженка в последнее время — не хотят они по болотам ходить, ну вот совсем не хотят. Что же делать порядочной лягушке? Сидеть и ждать своего счастья или взять все в свои лапки и пойти навстречу судьбе?

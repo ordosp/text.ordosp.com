@@ -6,9 +6,11 @@ categories = ["Игры"]
 preview = "images/1.png"
 image = "images/1.png"
 game_author = "Esperon"
-game_url = "https://quest-book.ru/online/view/grimbaldstarfire/"
-ifwiki_url = "https://ifwiki.ru/Скромная_история_одного_волшебника"
-ifiction_url = "https://forum.ifiction.ru/viewtopic.php?id=2743"
+game_urls = [
+    {"url"="https://quest-book.ru/online/view/grimbaldstarfire/", "title"="Страница игры"},
+    {"url"="https://ifwiki.ru/Скромная_история_одного_волшебника", "title"="ifwiki.ru"},
+    {"url"="https://forum.ifiction.ru/viewtopic.php?id=2743", "title"="ifiction.ru"}
+]
 +++
 
 Одна из игр КРИЛ 2023. Молодой волшебник прибывает в некий затрапезный городок по своим волшебным делам. Надо сказать, он весьма остер на язык и посему общается с другими существами несколько свысока. Что, впрочем, тоже можно понять — не каждому дано быть волшебником.
