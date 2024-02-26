@@ -18,7 +18,7 @@ pygmentsCodeFences = true
 [params]
     tagline = "Заметки о текстовых играх"
     description = "Заметки о текстовых играх"
-    custom_css = []
+    customCSS = ["css/custom.css"]
     favicon = "/static/images/favicon.ico"
 
 [[menu.main]]

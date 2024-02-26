@@ -1,0 +1,7 @@
+li h1 {
+    font-size: 2rem;
+}
+
+li p, li > a, article > p, article > p > a {
+    font-size: 1rem;
+}
